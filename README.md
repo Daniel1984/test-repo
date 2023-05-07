@@ -1,4 +1,4 @@
-![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![example workflow](https://github.com/Daniel1984/test-repo/actions/workflows/blank.yml/badge.svg)
 
 - v1.1.3
 4
